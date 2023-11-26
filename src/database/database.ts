@@ -1,5 +1,5 @@
 import PocketBase from 'pocketbase';
 
-const pb = new PocketBase('https://128.199.2.135');
+const pb = new PocketBase('https://kanbanzen.live');
 
 export default pb;
